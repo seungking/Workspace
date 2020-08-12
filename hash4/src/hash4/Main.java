@@ -11,6 +11,7 @@ public class Main {
 		ArrayList<String> genre = new ArrayList<>();
 		ArrayList<ArrayList<Integer>> play = new ArrayList<>();
 		HashMap<Integer, Integer> info = new HashMap<>();
+		HashMap<Integer, Integer> info2 = new HashMap<>();
 		HashMap<String, Integer> sum = new HashMap<>();
 		
 		for(int i=0; i<genres.length; i++) {
@@ -25,8 +26,8 @@ public class Main {
 			if(sum.get(genres[i])!=null) sum.put(genres[i],sum.get(genres[i])+plays[i]);
 			else sum.put(genres[i],plays[i]);
 			
-			if(info.get(plays[i])==null) info.put(plays[i],i);
-			else if(info.get(plays[i])>i) info.put(plays[i],i);
+			if(!info.containsKey(plays[i])) info.put(plays[i],i);
+			else if(!info2.containsKey(plays[i]))info2.put(plays[i],i);
 		}
 		
 	    ArrayList<Integer> answer = new ArrayList<>();
@@ -40,8 +41,9 @@ public class Main {
 			Collections.reverse(temp);
 			
 			answer.add(info.get(temp.get(0)));
-			if(temp.size()>1)answer.add(info.get(temp.get(1)));
-		}	`
+			if(info2.containsKey(temp.get(0)))answer.add(info2.get(temp.get(0)));
+			else if(temp.size()>1)answer.add(info.get(temp.get(1)));
+		}
 		
 		for(int i : answer) System.out.println(i);
   
