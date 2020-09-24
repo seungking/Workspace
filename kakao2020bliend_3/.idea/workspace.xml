@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca8236cb-3abd-4c85-92e2-3ab59cbb2908" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hOeJgrMBC8YEu0E36VCiukzwXY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kakao2020bliend_2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="kakao2020bliend_3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca8236cb-3abd-4c85-92e2-3ab59cbb2908" name="Default Changelist" comment="" />
+      <created>1599886498550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599886498550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1599897407017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599897407017" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1599897408233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599897408233" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1599897408233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599897408233" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1599897408233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599897408233" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1599897408233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599897408233" />
+    <state width="1877" height="283" key="GridCell.Tab.1.bottom" timestamp="1599897408230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599897408230" />
+    <state width="1877" height="283" key="GridCell.Tab.1.center" timestamp="1599897408230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599897408230" />
+    <state width="1877" height="283" key="GridCell.Tab.1.left" timestamp="1599897408230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599897408230" />
+    <state width="1877" height="283" key="GridCell.Tab.1.right" timestamp="1599897408230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599897408230" />
+    <state x="400" y="132" key="new project wizard" timestamp="1599886509655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="400" y="132" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599886509655" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="array[0]" language="JAVA" />
+        <watch expression="array[1]" language="JAVA" />
+        <watch expression="array[2]" language="JAVA" />
+        <watch expression="array[3]" language="JAVA" />
+        <watch expression="array[4]" language="JAVA" />
+        <watch expression="lan.get(arr[k][0])" language="JAVA" />
+        <watch expression="field.get(arr[k][1])" language="JAVA" />
+        <watch expression="car.get(arr[k][2])" language="JAVA" />
+        <watch expression="soul.get(arr[k][3])" language="JAVA" />
+        <watch expression="arr[k][4]" language="JAVA" />
+        <watch expression="count" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
